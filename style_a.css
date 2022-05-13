@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+#main {
+    background-color: F6F7FB
+}
+
+body {
+    position: absolute;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 50px;
+}
+
+
+/*.hmenul {
+    position: absolute;
+    width: 760px;
+    height: 53px;
+    left: 296px;
+    top: 70px;
+    background: #58BAAB;
+    border-radius: 20px;
+}*/
+
+.headermenu {
+    position: absolute;
+    width: 1552px;
+    height: 174px;
+    left: 0px;
+    top: 1px;
+    background: #F6BC00;
+}
+
+
+/*.menu {
+    font-family: 'Itim', cursive;
+    position: absolute;
+    width: 250px;
+    height: 850px;
+    left: 0px;
+    top: 174px;
+    background: #FCD857;
+    border: 1px solid #B07979;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/*--------------------------------------------------------------*/
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+.li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+
+/*--------------------------------------------------------------*/
+
+.li {
+    list-style: none;
+}
+
+.hr {
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 0px;
+    top: 617px;
+    border: 1px solid #000000;
+}
+
+.Userright {
+    position: absolute;
+    width: 94px;
+    height: 58px;
+    left: 1087px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: right;
+    color: #000000;
+    font-family: 'Itim', cursive;
+}
+
+.Basketright {
+    position: absolute;
+    width: 215px;
+    height: 55px;
+    left: 1217px;
+    font-family: 'Itim', cursive;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: right;
+    color: #000000;
+}
+
+.container {
+    position: absolute;
+    width: 483px;
+    height: 70px;
+    left: 173px;
+    top: 448px;
+}
+
+.circle1 {
+    position: absolute;
+    width: 409px;
+    height: 411px;
+    left: 938px;
+    top: 251px;
+}
